@@ -1,0 +1,7 @@
+{
+  "name": "Vendio - Next-Gen Commerce Hub",
+  "description": "A high-performance multi-vendor SaaS platform for creators and businesses to launch digital storefronts, manage bookings, and accept payments with a single smart link.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
